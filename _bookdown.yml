@@ -1,0 +1,6 @@
+book_filename: "first book"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Hoofdstuk "
+    
